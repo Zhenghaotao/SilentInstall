@@ -1,0 +1,3 @@
+把apk.html,apk.apk放在服务器上
+修改apk.html文件的ip为本地地址
+修改MainActivity.java文件的ip为本地地址
